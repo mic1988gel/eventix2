@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Eventix
 
 Telegram Mini App для поиска и создания событий.
@@ -58,3 +59,6 @@ MINI_APP_URL=https://your-mini-app-url
 
 - Endpoint: `POST /api/webhook`
 - Пример production URL: `https://yourdomain.com/api/webhook`
+=======
+# eventix2
+>>>>>>> fef668f5285c4fd0130bbc2056cc7fb1c0d56973
